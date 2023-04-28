@@ -7,9 +7,9 @@ A simple React widget that loads birthday reminders with useState. Fun React ref
 ## Final Product
 
 <br></br>
-<img src="" width="60%"/>
+<img src="https://github.com/k-henningson/birthday-buddy/blob/main/docs/BirthdayReminders.png?raw=true" width="60%"/>
 <br></br>
-<img src="" width="60%"/>
+<img src="https://github.com/k-henningson/birthday-buddy/blob/main/docs/ResetBirthdayReminders.png?raw=true" width="60%"/>
 <br></br>
 
 ### Tech Stack
